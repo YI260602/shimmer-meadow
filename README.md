@@ -1,6 +1,8 @@
 # 微光原 · Shimmer Meadow
 
-> 在线预览：https://yi260602.github.io/shimmer-meadow/
+> Vercel 在线版：https://quick-olive-qfob7lc.vercel.app/
+>
+> GitHub Pages 备份：https://yi260602.github.io/shimmer-meadow/
 
 一个单文件的 Three.js 黄昏云海场景：风、飞鸟般的轻光、黑色脸庞的白色小人、会跟着你的第二个小人，以及散落在草地里的七根蜡烛。
 
@@ -30,4 +32,8 @@ Three.js 通过 CDN 加载（内置备用源），首次打开需要联网；若
 
 ## 在线版本
 
-GitHub Pages：https://yi260602.github.io/shimmer-meadow/
+- Vercel：https://quick-olive-qfob7lc.vercel.app/
+- GitHub 仓库：https://github.com/YI260602/shimmer-meadow
+- GitHub Pages 备份：https://yi260602.github.io/shimmer-meadow/
+
+部署记录、更新方式和账号说明见 [DEPLOY.md](DEPLOY.md)。
